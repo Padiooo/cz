@@ -1,0 +1,5 @@
+Cesi 0
+Muret 20
+Stgaudens 40
+Lannemezan 25
+Tarbes 40

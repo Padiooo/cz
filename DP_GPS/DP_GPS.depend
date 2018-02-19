@@ -1,0 +1,57 @@
+# depslib dependency file v1.0
+1512401686 source:c:\users\8570w\desktop\ds_gps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+	"etape.h"
+	"chargeTrajet.h"
+
+1511686991 c:\users\8570w\desktop\ds_gps\affichage.h
+	"etape.h"
+
+1511730115 c:\users\8570w\desktop\ds_gps\etape.h
+
+1512401686 c:\users\8570w\desktop\ds_gps\chargetrajet.h
+	"etape.h"
+
+1511732048 source:c:\users\8570w\desktop\ds_gps\affichage.c
+	"affichage.h"
+	<stdio.h>
+
+1512404644 source:c:\users\8570w\desktop\ds_gps\chargetrajet.c
+	"chargeTrajet.h"
+	<stdio.h>
+
+1512401686 source:c:\users\8570w\desktop\ds_gps\etape.c
+	"etape.h"
+	<stdlib.h>
+	<string.h>
+
+1512482313 source:c:\users\8570w\desktop\codeblocks\dp_gps\affichage.c
+	"affichage.h"
+	<stdio.h>
+
+1512480526 c:\users\8570w\desktop\codeblocks\dp_gps\affichage.h
+	"etape.h"
+
+1512487183 c:\users\8570w\desktop\codeblocks\dp_gps\etape.h
+
+1512485704 source:c:\users\8570w\desktop\codeblocks\dp_gps\chargetrajet.c
+	"chargeTrajet.h"
+	<stdio.h>
+
+1512484720 c:\users\8570w\desktop\codeblocks\dp_gps\chargetrajet.h
+	"etape.h"
+
+1512487329 source:c:\users\8570w\desktop\codeblocks\dp_gps\etape.c
+	"etape.h"
+	<stdlib.h>
+	<string.h>
+
+1512487154 source:c:\users\8570w\desktop\codeblocks\dp_gps\main.c
+	<stdio.h>
+	<stdlib.h>
+	"affichage.h"
+	"etape.h"
+	"chargeTrajet.h"
+
